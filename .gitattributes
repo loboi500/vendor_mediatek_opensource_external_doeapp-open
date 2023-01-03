@@ -1,0 +1,2 @@
+doeapp-memtester filter=lfs diff=lfs merge=lfs -text
+dtc-vendor filter=lfs diff=lfs merge=lfs -text
